@@ -1,1 +1,38 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
 
+
+.bg-info {
+    background-color: #003049 !important;     /* some secondary colour */
+}
+
+.navbar-light .navbar-brand {
+    color: #ffffff;                           /* contrast to secondary colour */
+}
+
+.btn-primary {
+    color: #FFF;                           /* contrast to secondary colour */
+    font-size: 150%;
+    background-color: #003049;                /* some secondary colour */
+    border-color: #D62828;                    /* some accent colour */
+    border-width: thick
+}
+
+.btn-secondary {
+    background-color: #D62828;
+    border-color: #D62828;
+}
+
+.btn-outline-primary {
+    color: #D62828;
+    border-color: #D62828;
+}
+
+body {
+    background-color: #EAE2B7;                /* some primary colour */
+}
+
+.material-icons {
+    color: #D62828;
+}
